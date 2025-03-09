@@ -1,0 +1,12 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios específicos
+/dist/
+/node_modules/
+
+# Ignorar arquivos temporários
+*.
+
+# Ignorar arquivos da IDE
+.idea
